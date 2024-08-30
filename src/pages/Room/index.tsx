@@ -115,7 +115,6 @@ function RoomPage() {
           />
         </div>
       </div>
-
       <div className={styles.buttonContainer}>
         <RoomButton onClick={handleJoin} id="make">
           作成
